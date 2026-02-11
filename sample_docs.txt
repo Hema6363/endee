@@ -1,0 +1,10 @@
+Endee is a high-performance vector database designed for AI applications.
+It provides fast similarity search capabilities for large-scale vector data.
+The system supports various distance metrics including cosine similarity and Euclidean distance.
+Endee offers both open-source and enterprise versions with different features.
+It can be used for semantic search, recommendation systems, and anomaly detection.
+The database is optimized for memory usage and query performance.
+Endee supports real-time indexing and batch processing of vector data.
+It includes features like filtering, metadata management, and multi-tenancy.
+The system is built with modern C++ and provides Python client libraries.
+Endee is suitable for applications in natural language processing and computer vision.

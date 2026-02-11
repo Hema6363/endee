@@ -20,7 +20,7 @@ services:
 # ----------------------------------------------------
     environment:
       NDD_NUM_THREADS: 0
-      NDD_AUTH_TOKEN: "" # Replace with your auth token
+      NDD_AUTH_TOKEN: "19b6e9675a68942c7c64b18ae694838c18767cd796a68b57e147df644d1a7f8b" # Replace with your auth token
     volumes:
       - endee-data:/data
     restart: unless-stopped
